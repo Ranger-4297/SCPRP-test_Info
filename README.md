@@ -6,6 +6,7 @@ Whilst on the AD (Administrative Department) or in the Scientific Department (SD
 <br />
 <br />
 # Please Note:
+
 This document requires a level-3 clearance or above. Anyone obtaining a copy of this document without the specified clearance will be terminated upon reading futher via **memetic kill agent**.<br /><br />
 *... Security Clearance Accepted ...*<br /><br />
 *... Disengaging Saftey Protocols ...*<br /><br />
