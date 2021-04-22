@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SCP_Foundation_%28emblem%29.svg/1200px-SCP_Foundation_%28emblem%29.svg.png" height=75px width=75px></img>&nbspSCP FOUNDATION TESTING PROCEEDURE</h1>
 
 ----
-This doucment/repository is meant for the use with ROBLOX game SCP: Roleplay
+This doucment/repository is meant for the use with ROBLOX game [SCP: Roleplay](https://www.roblox.com/games/5041144419)
 Whilst on the AD (Administrative Department) or in the Scientific Department (SD) as a testing guide/copy paste document for Class-D's and test reports.
 <br />
 <br />
