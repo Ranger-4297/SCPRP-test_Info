@@ -4,7 +4,7 @@
 
 ----
 This doucment/repository is meant for the use with ROBLOX game [SCP: Roleplay](https://www.roblox.com/games/5041144419)
-Whilst on the AD (Administrative Department) or in the Scientific Department (SD) as a testing guide/copy paste document for Class-D's and test reports. Aswell as possible interview questions in the future
+Whilst on the AD (Administrative Department) or in the Scientific Department (SD) as a testing guide/copy paste document for Class-D's and test reports. Aswell as possible interview questions in the future.
 <br />
 <br />
 # Please Note:
