@@ -59,7 +59,7 @@ During this session we will be testing SCP-457, Burning Man.
 </details>
 <details>
     		<summary><h3 align="center">&nbspSCP-966</h3></summary>
-During this session we will be testing SCP-966's, Sleep Killers.
+During this session we will be testing the SCP-966's, Sleep Killers.
  Which is located in Sector-///
  Please begin by showing me your clearance level (Keycard)
 </details>
@@ -134,98 +134,98 @@ Not Applicable.
         <summary><h2 align="center">&nbspSECTOR-/// (SECTOR 3)</h2></summary>
 <details>
     		<summary><h3 align="center">&nbspSCP-008</h3></summary>
-Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Success; SCP Status, Outbreak.<br />
-Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Failure; SCP Status, Outbreak.
+• Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Success; SCP Status, Outbreak.<br />
+• Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-008 AKA "Zombie virus"; Test status, Confirmed-Failure; SCP Status, Outbreak.
 </details>
 <details>
 			<summary><h3 align="center">&nbspSCP-049</h3></summary>
-Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-049 AKA "Plague Doctor"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
 			<summary><h3 align="center">&nbspSCP-096</h3></summary>
-Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-096 AKA "Shyguy"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
     		<summary><h3 align="center">&nbspSCP-457</h3></summary>
-Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-457 AKA "Burning Man"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
     		<summary><h3 align="center">&nbspSCP-966</h3></summary>
-Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-966 AKA "Sleep Killers"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 </details>
 <details>
-                    <summary><h2 align="center">&nbspSECTOR-// (SECTOR 2)</h2></summary>
+        <summary><h2 align="center">&nbspSECTOR-// (SECTOR 2)</h2></summary>
 <details>
-    <summary><h3 align="center">&nbspSCP-002</h3></summary>
-Report: Test; SCP, SCP-002 AKA "The Living Room"; Test status, Confirmed-Success; SCP Status, Secure.<br />
-Report: Test; SCP, SCP-002 AKA "Black-Shuck"; Test status, Confirmed-Failure; SCP Status, Secure.
+    		<summary><h3 align="center">&nbspSCP-002</h3></summary>
+• Report: Test; SCP, SCP-002 AKA "The Living Room"; Test status, Confirmed-Success; SCP Status, Secure.<br />
+• Report: Test; SCP, SCP-002 AKA "Black-Shuck"; Test status, Confirmed-Failure; SCP Status, Secure.
 </details>
 <details>
-		<summary><h3 align="center">&nbspSCP-023</h3></summary>
-Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Failure; SCP Status, Breached.
+			<summary><h3 align="center">&nbspSCP-023</h3></summary>
+• Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-023 AKA "Black-Shuck"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
 			<summary><h3 align="center">&nbspSCP-131</h3></summary>
-Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-131 AKA "EyePods"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
     	<summary><h3 align="center">&nbspSCP-173</h3></summary>
-Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-173 AKA "The Sculpture"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
     	<summary><h3 align="center">&nbspSCP-409</h3></summary>
-Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-409 AKA "Contagious Crystal"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
     	<summary><h3 align="center">&nbspSCP-999</h3></summary>
-Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-999 AKA "The Tickle Monster"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
     	<summary><h3 align="center">&nbspSCP-1025</h3></summary>
-Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Success; SCP Status, Breached.<br />
-Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Failure; SCP Status, Breached.
+• Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Success; SCP Status, Breached.<br />
+• Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-1025 AKA "Encyclopedia of Common Diseases"; Test status, Confirmed-Failure; SCP Status, Breached.
 </details>
 <details>
     	<summary><h3 align="center">&nbspSCP-1299</h3></summary>
-Report: Test; SCP, SCP-1299 AKA "Drowning Tub"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP-1299 AKA "Drowning Tub"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-1299 AKA "Drowning Tub"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-1299 AKA "Drowning Tub"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
 </details>
 <details>
     	<summary><h3 align="center">&nbspSCP-2950</h3></summary>
-Report: Test; SCP, SCP-2950 AKA "Just a Chair"; Test status, Confirmed-Success; SCP Status, Contained.<br />
-Report: Test; SCP, SCP- AKA "Just a Chair"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP-2950 AKA "Just a Chair"; Test status, Confirmed-Success; SCP Status, Contained.<br />
+• Report: Test; SCP, SCP- AKA "Just a Chair"; Test status, Confirmed-Failure; SCP Status, Contained.<br />
 </details>
 </details>
 <details>
