@@ -1,4 +1,7 @@
-# Under construction
+# Discontinued
+> After consideration and cause of me not being bothered to work on this I decided to stop editing it.
+> You're welcome to fork it if you'd like, work on it and even create a Pull Request to the main branch which I'll merge
+> However I won't be editing it myself.
 
 <h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/SCP_Foundation_%28emblem%29.svg/1200px-SCP_Foundation_%28emblem%29.svg.png" height=75px width=75px></img>&nbspSCP FOUNDATION TESTING PROCEEDURE</h1>
 
